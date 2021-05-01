@@ -1,0 +1,26 @@
+body{
+  background: #dfdf;
+  background-image: url("LUAN MU XIBAO.png");
+  background-repeat:repeat-x;
+  background-attachment: local;
+  background-position: right;
+}
+a{
+  display: block;
+}
+#menu_wrap{
+  margin:10px 0 50px 0px;
+}
+.menu{
+  display: inline-block;
+  height: 50px;
+  width: 100px;
+  text-decoration: none;
+
+  border:3px dashed black;
+  padding:10px 5px;
+}
+table{
+  float:right;
+  margin-right: 20px;
+}

@@ -1,0 +1,20 @@
+#menu_web{
+  background:yellow;
+}
+.menu{
+  color:blue;
+}
+h1{
+  color:red
+}
+h2{
+  color:blue;
+}
+body{
+  background-color: grey;
+  background-image: url("LUAN MU XIBAO.png");
+  background-repeat:repeat-y;
+  background-attachment: local;
+  background-position: center;
+  font-family: sans-serif;
+}
